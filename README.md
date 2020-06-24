@@ -1,5 +1,5 @@
 <h1 align="center"> :rocket: Desafios LaunchBase </h1>
-<p align="center"> Repositório destinado aos desafios do LaunchBase bootcamp realizado pela Rocketseat </p><br />
+<p align="center"> Repositório destinado aos desafios do LaunchBase Bootcamp realizado pela Rocketseat </p><br />
 
 <h2 align="center"> :dart: Objetivos </h2>
 <li align="center"> Fortalecer fundamentos e conceitos vistos em aula </li>
